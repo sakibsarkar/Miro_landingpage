@@ -64,3 +64,8 @@ nav {
     align-items: center;
     gap: 50px;
 }
+
+
+.company img {
+    width: 82px;
+}
