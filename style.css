@@ -69,3 +69,18 @@ nav {
 .company img {
     width: 82px;
 }
+
+.miro {
+    position: relative;
+    height: 88px;
+}
+
+.miro::after {
+    content: "";
+    position: absolute;
+    width: 178px;
+    height: 1px;
+    background-color: white;
+    bottom: 0px;
+    left: 0;
+}
